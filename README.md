@@ -1,2 +1,2 @@
 # cek-bilangan-ganjil-genap
-Beldjar Js Dasar
+Belajar Js Dasar
